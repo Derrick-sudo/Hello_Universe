@@ -3,4 +3,8 @@ Repository_Story
 
 Hello fellaz!
 
-Derrick here, it doesn't matter what you call me as long as you call me, baby :)
+me = "Derrick here, contained here are all my python projects. Have a look but do not touch. I'm playing, why so serious"
+
+print(me)
+
+
