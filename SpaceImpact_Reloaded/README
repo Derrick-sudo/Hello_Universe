@@ -1,6 +1,6 @@
 This is an alien shooting game created in python/pygame. 
 
-The game contains a rocketship that a player can control, shoot bullets at aliens and earn points depending on the alien shot down.
+The game contains a rocketship that a player can control, shoot bullets at aliens and earn points depending on the type of alien shot down.
 The game advances in stages where aliens move faster and require more bullets to take down.
 
 reference: Python Crash Course by Eric Matthes
